@@ -1,0 +1,1 @@
+ D:\\flutter\\movie_rating_new\\.dart_tool\\flutter_build\\f089800d00c0c43e9662bca014571e69\\native_assets.json: 

@@ -1,0 +1,14 @@
+echo ".dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.idea/
+android/.gradle/
+android/app/key.jks
+ios/Pods/
+*.iml
+*.lock
+*.log
+pubspec.lock
+" > .gitignore
