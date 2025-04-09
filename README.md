@@ -82,6 +82,6 @@ Copy code
 
 📄 License
 MIT License — feel free to use, remix, and share!
-© 2025 [YourName]
+© 2025 Niranjan_S
 
 Let me know if you'd like a copy with your GitHub username, screenshots, or personalized project name, and I’ll update it for you!
